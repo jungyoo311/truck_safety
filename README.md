@@ -6,6 +6,7 @@ The **Truck Safety project** is a 2024-25 Senior Design Project. Real-time colli
 ## What it does
 - **Forward Collision Warning (FCW)**: Detects vehicles and pedestrians in real-time, warning drivers to prevent collisions (30 FPS on test videos).
 - **Lane Boundary Detection **: Identifies lane markings using classical vision techniques.
+
 ![FCW_DEMO](resources/demo_output.png)
 ## What I learned
 - **Pipeline Design**: Built a modular Python pipeline that processes camera feeds, runs object detection, and performs lane detection using OpenCV computer vision techniques **.
