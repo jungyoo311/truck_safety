@@ -1,0 +1,10 @@
+
+{
+    "detection_threshold": 0.8,
+    "labels": [
+      "unlabeled",
+      "car",
+      "truck",
+      "motorcycle"
+    ]
+}
